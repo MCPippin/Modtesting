@@ -1,4 +1,4 @@
 Modtesting
 ==========
 
-First try to mske a mod
+First try to make a mod
